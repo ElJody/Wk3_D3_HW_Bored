@@ -1,0 +1,4 @@
+colorama
+ascii_magic
+pyfiglet
+requests
